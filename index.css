@@ -1,0 +1,16 @@
+/* Write your code here. */
+
+.bg-container {
+  background-color: #0f172a;
+  text-align: center;
+  padding: 25px;
+}
+
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+}
+
+.img {
+  height: 200px;
+}
